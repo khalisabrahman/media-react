@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Kathryn Russel",
+      "id": 3
+    },
+    {
+      "name": "Debbie Mueller",
+      "id": 4
+    },
+    {
+      "name": "Susan Abbott",
+      "id": 11
+    },
+    {
+      "name": "Jonathan Erdman",
+      "id": 12
+    },
+    {
+      "name": "Keith Boyer-Steuber",
+      "id": 13
+    },
+    {
+      "name": "Dr. Grady Rosenbaum",
+      "id": 14
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
