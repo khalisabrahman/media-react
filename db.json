@@ -29,6 +29,47 @@
       "id": 15
     }
   ],
-  "albums": [{ "id": 10, "title": "Hiking Trip", "userId": 1 }],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Bronze Computer",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Rubber Gloves",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Rubber Chips",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Plastic Fish",
+      "id": 14
+    },
+    {
+      "userId": 4,
+      "title": "Ergonomic Bronze Mouse",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Cotton Chips",
+      "id": 16
+    },
+    {
+      "userId": 4,
+      "title": "Fantastic Plastic Mouse",
+      "id": 17
+    }
+  ],
   "photos": []
 }
